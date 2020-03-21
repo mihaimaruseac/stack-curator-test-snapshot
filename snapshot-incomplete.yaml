@@ -1,0 +1,5 @@
+publish-time: 2020-03-21T01:19:25.49410851Z
+packages:
+- hackage: io-manager-0.1.0.2@sha256:906bbf841d4c46e7a19ecfebfe781405160164122868eb4f80c2a01b0b5563c2,973
+resolver:
+  compiler: ghc-8.8.2

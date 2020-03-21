@@ -1,0 +1,9 @@
+github-users: {}
+ghc-version: 8.8.2
+packages:
+  io-manager:
+    maintainers:
+    - Author <author@gmail.com> @author
+    source:
+      revisions: use-revisions
+      type: hackage
