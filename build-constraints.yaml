@@ -1,0 +1,22 @@
+ghc-major-version: "8.8"
+ghc-version: "8.8.2"
+cabal-format-version: "2.4"
+
+packages:
+    "Author <author@gmail.com> @author":
+        - io-manager
+# end of packages
+
+package-flags: {}
+skipped-builds: []
+skipped-tests: []
+skipped-benchmarks: []
+skipped-haddocks: []
+expected-test-failures: []
+expected-benchmark-failures: []
+expected-haddock-failures: []
+github-users: {}
+hide: []
+no-revisions: []
+tell-me-when-its-released: []
+non-parallel-builds: []
